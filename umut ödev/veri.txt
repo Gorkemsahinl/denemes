@@ -1,0 +1,20 @@
+with open('sifreleme.txt', 'r') as file:
+    sifreler = file.readlines()
+owzsmu^^^^
+owzsmu^^
+iii^^
+alial
+!^^^+
+!^^^!^^^
+ialianl//<<
+^!^^!+^&!^+
+!^^^+&/<>-=-></&+^^^
+cucbbbbbbb^^^
+cucb
+ialial
+CUCBKIVBWXHIS^^^^^
+aaaa^^^^^
+myemyem^^^^^^^^
++&/<>-yemz
+algdsfre
+y
